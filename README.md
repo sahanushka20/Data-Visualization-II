@@ -3,12 +3,12 @@
 This repository contains solutions for various problems related to data science, machine learning, geospatial analysis, web scraping, and web services. Each task is demonstrated with Python code using libraries such as `yfinance`, `Bokeh`, `seaborn`, `requests`, and more. Below are the descriptions of each problem and the approach taken to solve it.
 
 ## Table of Contents
-1. [Kernel Density Estimation (KDE)] 
-2. [Bivariate Distribution Using Apple Stocks Dataset] 
-3. [Geospatial Data Visualization with Bokeh]
-4. [Network Visualization Using Geospatial Data] 
-5. [Web Scraping and Networked Programming] 
-6. [Working with Web Services (XML)] 
+1. Kernel Density Estimation (KDE)
+2. Bivariate Distribution Using Apple Stocks Dataset
+3. Geospatial Data Visualization with Bokeh
+4. Network Visualization Using Geospatial Data
+5. Web Scraping and Networked Programming
+6. Working with Web Services (XML)
 
 ---
 
