@@ -1,4 +1,4 @@
-# Data Science & Machine Learning Solutions
+# Data Visualisation Assignment-II
 
 This repository contains solutions for various problems related to data science, machine learning, geospatial analysis, web scraping, and web services. Each task is demonstrated with Python code using libraries such as `yfinance`, `Bokeh`, `seaborn`, `requests`, and more. Below are the descriptions of each problem and the approach taken to solve it.
 
